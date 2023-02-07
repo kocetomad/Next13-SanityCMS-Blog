@@ -16,7 +16,6 @@
     "next-sanity": "^4.1.2",
     "npm": "^9.4.1",
     "react": "18.2.0",
-    "react-backdrop-filter": "^2.1.0",
     "react-dom": "18.2.0",
     "react-portable-text": "^0.6.0",
     "sanity": "^3.0.0",
